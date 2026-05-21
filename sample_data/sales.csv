@@ -1,0 +1,33 @@
+order_id,order_date,region,product_category,customer_id,sales_amount,profit,quantity
+1001,2024-01-05,North,Electronics,C001,1250.00,210.00,5
+1002,2024-01-08,South,Furniture,C002,860.00,120.00,2
+1003,2024-01-15,East,Office Supplies,C003,430.00,65.00,6
+1004,2024-01-22,West,Electronics,C004,1520.00,310.00,4
+1005,2024-02-03,North,Furniture,C005,980.00,155.00,3
+1006,2024-02-11,South,Office Supplies,C006,510.00,80.00,8
+1007,2024-02-16,East,Electronics,C007,1740.00,360.00,6
+1008,2024-02-25,West,Furniture,C008,690.00,95.00,2
+1009,2024-03-04,North,Office Supplies,C009,620.00,88.00,9
+1010,2024-03-09,South,Electronics,C010,1880.00,420.00,7
+1011,2024-03-19,East,Furniture,C011,780.00,130.00,2
+1012,2024-03-28,West,Office Supplies,C012,570.00,82.00,7
+1013,2024-04-02,North,Electronics,C013,2040.00,460.00,8
+1014,2024-04-12,South,Furniture,C014,930.00,140.00,3
+1015,2024-04-18,East,Office Supplies,C015,710.00,104.00,10
+1016,2024-04-27,West,Electronics,C016,1690.00,350.00,5
+1017,2024-05-06,North,Furniture,C017,1120.00,180.00,4
+1018,2024-05-13,South,Office Supplies,C018,640.00,90.00,8
+1019,2024-05-20,East,Electronics,C019,1960.00,415.00,7
+1020,2024-05-29,West,Furniture,C020,740.00,102.00,2
+1021,2024-06-03,North,Office Supplies,C021,760.00,118.00,11
+1022,2024-06-09,South,Electronics,C022,2140.00,490.00,8
+1023,2024-06-17,East,Furniture,C023,890.00,150.00,3
+1024,2024-06-25,West,Office Supplies,C024,680.00,99.00,9
+1025,2024-07-04,North,Electronics,C025,2260.00,520.00,9
+1026,2024-07-11,South,Furniture,C026,1040.00,165.00,4
+1027,2024-07-18,East,Office Supplies,C027,790.00,112.00,10
+1028,2024-07-26,West,Electronics,C028,1810.00,,6
+1029,2024-08-05,North,Furniture,C029,1160.00,195.00,4
+1030,2024-08-14,South,Office Supplies,C030,720.00,108.00,9
+1031,2024-08-21,East,Electronics,C031,2080.00,455.00,8
+1032,2024-08-30,West,Furniture,C032,810.00,125.00,3
