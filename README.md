@@ -12,7 +12,7 @@ Light Data Agent transforms natural language questions into **safe**, **executab
 
 ---
 
-## 🎯 What This Project Does
+## 🎯 What Light Data Agent Does
 
 Upload structured data, ask questions in natural language, and receive validated SQL results, explanations, charts, and reports — all within a **persistent project workspace**.
 
@@ -250,27 +250,5 @@ Give me an overview of this dataset.
 Run a full data quality diagnosis.
 Generate a Markdown report.
 ```
-
----
-
-## 🎯 Design Boundary
-
-This project focuses on **lightweight, structured data analysis** — not a full enterprise BI platform.
-
-**✅ In scope (implemented)**
-
-- CSV-based analysis within project workspaces
-- Schema-grounded, validated SQL generation
-- Single-step & multi-step agent workflows
-- Persistent memory and artifact management
-- Explainable results with charts and reports
-
-**🔮 Out of scope (future)**
-
-- Multi-table JOIN / cross-dataset analysis
-- Vector / embedding schema retrieval
-- LLM-driven plan generation (currently rule-based)
-- Auto-ML, causal inference, production DB connectors
-- Multi-user auth & cloud sync
 
 ---
