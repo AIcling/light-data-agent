@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.coverage
+htmlcov/
+*.duckdb
+*.db
+logs/
+reports/*.md
+storage/
+!reports/.gitkeep
+!storage/.gitkeep
+com_README.md
