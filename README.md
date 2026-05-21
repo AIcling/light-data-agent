@@ -1,6 +1,6 @@
 # ✨ Light Data Agent
 
-> A lightweight, schema-grounded Data Agent for CSV-based data analysis.
+> A lightweight, schema-grounded Data Agent for structure-based data analysis.
 
 Light Data Agent transforms natural language questions into **safe**, **executable**, and **explainable** data workflows. It is a compact research and engineering prototype that emphasizes agent workflow, schema grounding, SQL validation & repair, persistent memory, and multi-step analysis.
 
